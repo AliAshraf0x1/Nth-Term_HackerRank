@@ -1,0 +1,1 @@
+# Nth-Term_HackerRank
